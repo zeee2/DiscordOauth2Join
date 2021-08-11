@@ -40,5 +40,5 @@ If there's any issues during setup, feel free to post an issue.
 
 ##  LICENSE
 
-This project is licensed under the [MIT License](https://tldrlegal.com/license/mit-license). 
-Please see [the license file](LICENSE) for more information.
+> This project is licensed under the [MIT License](https://tldrlegal.com/license/mit-license). 
+> Please see [the license file](LICENSE) for more information.
