@@ -1,0 +1,4 @@
+colorama
+Flask
+requests_oauthlib
+requests
