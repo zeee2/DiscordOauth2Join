@@ -27,18 +27,18 @@ If there's any issues during setup, feel free to post an issue.
 
 ## Requirements
 
-> Experience developing in Python.
-> Discord Application with a bot
+- Experience developing in Python.
+- Discord Application with a bot
 
   
 
 ## Example
 
-> [discord.nerina.moe](https://discord.nerina.moe)
+[discord.nerina.moe](https://discord.nerina.moe)
 
   
 
 ##  LICENSE
 
-> This project is licensed under the [MIT License](https://tldrlegal.com/license/mit-license). 
-> Please see [the license file](LICENSE) for more information.
+This project is licensed under the [MIT License](https://tldrlegal.com/license/mit-license). 
+Please see [the license file](LICENSE) for more information.
