@@ -34,7 +34,7 @@ If there's any issues during setup, feel free to post an issue.
 
 ## Example
 
-[discord.nerina.moe](https://discord.nerina.moe)
+[discord.zeee.dev](https://discord.zeee.dev/) << my priv server :3
 
   
 
